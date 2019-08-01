@@ -14,7 +14,7 @@ import com.fasterxml.jackson.annotation.JsonManagedReference;
 @Entity
 @Table(name="brand")
 
-//Testing..,
+//Testing.
 
 public class Brand {
 	@Id
